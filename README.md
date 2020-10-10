@@ -1,1 +1,2 @@
 # ConflitsMerge
+fix conflits 
